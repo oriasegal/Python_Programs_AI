@@ -1,8 +1,3 @@
-"""
-Oria Segal
-209338193
-"""
-
 '''
 implements a priority queue using a minimum heap
 the heap is represented by a list
