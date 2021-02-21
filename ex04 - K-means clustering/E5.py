@@ -1,5 +1,4 @@
 """
-Oria Segal, 209338193
 Exercise 5
 """
 import math
