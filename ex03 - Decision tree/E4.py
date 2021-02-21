@@ -1,6 +1,5 @@
 """
-Oria Segal, 209338193
-Ex. 4
+Exercise 4
 """
 from sklearn import tree
 
