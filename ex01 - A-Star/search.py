@@ -1,8 +1,3 @@
-"""
-Oria Segal
-209338193
-"""
-
 import state
 import frontier
 
